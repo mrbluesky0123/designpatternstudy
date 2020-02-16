@@ -1,4 +1,4 @@
-package com.company.bookshelf;
+package com.company.iterator.bookshelf;
 
 public interface Iterator<T> {
   public abstract boolean hasNext();
